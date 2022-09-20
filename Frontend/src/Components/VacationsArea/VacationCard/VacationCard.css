@@ -1,0 +1,31 @@
+
+
+.VacationCard img {
+    width: 300px;
+    height: 200px;
+    margin: 5px;
+    border-radius: 10px;
+    vertical-align: middle;
+    
+    
+} 
+
+.VacationCard > div{
+    background-image: linear-gradient(rgb(150, 221, 189) , rgb(122, 134, 138));
+    border-radius: 10px;
+   
+}
+
+ .user-btn {
+    justify-content: center;
+   padding-left: 23%;
+   align-items: center;
+}
+
+
+
+
+
+
+
+

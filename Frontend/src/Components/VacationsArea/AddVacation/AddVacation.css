@@ -1,0 +1,26 @@
+.AddVacation{
+    height: 100%;
+    border: 1px solid black;
+    
+}
+
+.AddVacation > form{
+    width: 250px;
+    padding: 5px;
+    display: inline-block;
+     
+    
+}
+
+
+.AddVacation .InputBox {
+    width: 100%;
+   
+}
+
+h5{
+   
+    color: blue;
+   
+    
+}

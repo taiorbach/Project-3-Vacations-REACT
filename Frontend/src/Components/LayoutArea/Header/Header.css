@@ -1,0 +1,15 @@
+.Header {
+	
+    background-image:radial-gradient(rgb(150, 199, 196) , rgb(175, 172, 211));
+    font-size:medium;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Header > h1 {
+
+    font-family: "Audiowide", sans-serif;
+    color: rgba(20, 12, 247, 0.998);
+}
